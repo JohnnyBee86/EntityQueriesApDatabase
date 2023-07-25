@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityQueriesApDatabase", "EntityQueriesApDatabase\EntityQueriesApDatabase.csproj", "{9CD62EBF-DF2A-4D84-A373-DC34BD815A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD62EBF-DF2A-4D84-A373-DC34BD815A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD62EBF-DF2A-4D84-A373-DC34BD815A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD62EBF-DF2A-4D84-A373-DC34BD815A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD62EBF-DF2A-4D84-A373-DC34BD815A45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3CC87BE-3C46-41A3-BEE0-B15EFAB42FFB}
+	EndGlobalSection
+EndGlobal
